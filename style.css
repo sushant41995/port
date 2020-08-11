@@ -1,0 +1,50 @@
+#About{
+    margin-top: -200px;
+}
+#About .fa{
+    color: white;
+}
+.navbar-brand{
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+#About hr{
+    border-width: 3px;
+    margin-top: 06px;
+}
+#skills span{
+    padding: 10px 20px 10px 20px;
+
+}
+#skills hr{
+    border-width: 3px;
+    margin-top: 06px;
+
+
+}
+#Certification span{
+    padding: 10px 20px 10px 20px;
+
+}
+#Certification hr{
+    border-width: 3px;
+    margin-top: 06px;
+
+}
+#Certification .card{
+border-top: 03px solid red;
+}
+#Contact span{
+    padding: 10px 20px 10px 20px;
+
+
+}
+#Contact hr{
+    border-width: 3px;
+    margin-top: 06px;
+
+
+}
